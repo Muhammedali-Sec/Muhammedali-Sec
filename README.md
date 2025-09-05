@@ -10,13 +10,13 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 
 ## Skills
 
-Programming / Scripting: Python, JavaScript
+**Programming / Scripting: Python, JavaScript**
 
-Cybersecurity: Ethical Hacking, CTFs, Bug Bounty, Web Security, Network Security
+**Cybersecurity: Ethical Hacking, CTFs, Bug Bounty, Web Security, Network Security**
 
-Tools / Platforms: Burp Suite, Wireshark, Metasploit, Nmap, Docker
+**Tools / Platforms: Burp Suite, Wireshark, Metasploit, Nmap**
 
-OS & Environments: Linux, Windows
+**OS & Environments: Linux, Windows**
 
 ## CTF
 <a href="https://tryhackme.com/p/Muhammedali1"><img width="100" height="247" alt="image" src="https://github.com/user-attachments/assets/d3ee3c10-2967-4519-9d56-b9395fdc1918" /><a>
