@@ -35,4 +35,6 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 <a href="Certificates/cisco.pdf"><img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" /><a>
 
 ## Projects
+**Directory Scanner**
 
+<a href="https://github.com/Muhammedali-Sec/coding/blob/main/directory_finder.py"><img width=250 src="https://github.com/Muhammedali-Sec/coding/blob/main/scanner.png" /><a>
