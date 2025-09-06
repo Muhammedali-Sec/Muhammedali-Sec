@@ -38,3 +38,5 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 **Directory Scanner**
 
 <a href="https://github.com/Muhammedali-Sec/coding/blob/main/directory_finder.py"><img width=250 src="https://github.com/Muhammedali-Sec/coding/blob/main/scanner.png" /><a>
+
+*Note:You can view the full code by clicking the picture*
