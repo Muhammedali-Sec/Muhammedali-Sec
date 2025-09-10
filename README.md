@@ -25,6 +25,8 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 
 <a href="https://medium.com/@muxammedhusrynzade/ignite-ctf-walkthrough-37d4fac7bc45"><img width=130 src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /><a>
 
+<a href="https://medium.com/@muxammedhusrynzade/tryhackme-retro-walkthrough-154c1655a6be"><img width=130 src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /><a>
+
 ## Bug Bounty / Security Research
 **Some of the reports I’ve Submitted on QaraBug**
 - [Qarabug Reports](Certificates/qarabug.png)
