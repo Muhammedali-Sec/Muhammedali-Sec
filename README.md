@@ -35,7 +35,7 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 ## Certifications
 <a href="Certificates/udemy.jpg"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" /><a>
 <a href="Certificates/cisco.pdf"><img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" /><a>
-
+<a href="Certificates/ethical-hacker.pdf"><img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" /><a>
 ## Projects
 **Directory Scanner**
 
