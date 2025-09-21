@@ -42,3 +42,12 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 <a href="https://github.com/Muhammedali-Sec/coding/blob/main/directory_finder.py"><img width=250 src="https://github.com/Muhammedali-Sec/coding/blob/main/scanner.png" /><a>
 
 *Note:You can view the full code by clicking the picture*
+
+**Revillage — Beginner CTF Lab**
+
+Designed and built a beginner-friendly CTF where players practice brute-forcing web logins, steganography, decoding, and privilege escalation.
+
+[Access the CTF here](https://tryhackme.com/jr/revillage)
+
+<img src="https://github.com/Muhammedali-Sec/coding/blob/main/images/main.png" alt="CTF main page" width=300></img>
+
