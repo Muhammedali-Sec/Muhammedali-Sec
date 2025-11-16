@@ -58,3 +58,7 @@ Designed and built a beginner-friendly CTF where players practice brute-forcing 
 
 <img src="https://github.com/Muhammedali-Sec/coding/blob/main/images/main.png" alt="CTF main page" width=300></img>
 
+**XSS Detector**
+
+Built a simple Python tool that injects payloads into URL parameters to detect reflected XSS vulnerabilities. You can access the tool <a href="https://github.com/Muhammedali-Sec/coding/blob/main/simple-xss-finder.py">here</a>
+
